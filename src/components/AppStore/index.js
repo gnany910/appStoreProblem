@@ -5,6 +5,8 @@ import TabItem from '../TabItem'
 
 import './index.css'
 
+// component AppStore
+
 const SEARCH_ICON_URL =
   'https://assets.ccbp.in/frontend/react-js/app-store/app-store-search-img.png'
 

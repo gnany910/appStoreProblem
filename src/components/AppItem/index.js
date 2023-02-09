@@ -13,3 +13,5 @@ const AppItem = props => {
 }
 
 export default AppItem
+
+//component appItem
